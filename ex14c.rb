@@ -11,7 +11,7 @@ likes = $stdin.gets.chomp
 puts "Where do you live #{user_name}? ", prompt
 lives = $stdin.gets.chomp
 
-puts "What kind of computer do you have ", prompt
+puts "What kind of pc do you have ", prompt
 computer = $stdin.gets.chomp
 
 puts """
