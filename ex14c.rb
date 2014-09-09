@@ -12,6 +12,7 @@ puts "Where do you live #{user_name}? ", prompt
 lives = $stdin.gets.chomp
 
 puts "What kind of workstation do you have ", prompt
+
 computer = $stdin.gets.chomp
 
 puts """
