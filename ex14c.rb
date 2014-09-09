@@ -29,3 +29,5 @@ And you have a #{computer} computer. Nice.
 puts "This is for which branch", prompt
 whatbranch = $stdin.gets.chomp
 puts "Right for #{whatbranch}"
+
+puts "another thing"
